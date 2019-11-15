@@ -1,0 +1,13 @@
+form  {
+	border: 1px solid black;
+	padding: 20px 20px;
+}
+
+
+form span {
+	border-bottom: 1px solid black;
+	text-align: center;
+	font-family: Helvetica;
+	display: inline-block;
+	
+}
